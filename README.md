@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monira</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img width="604" height="339" alt="Screenshot_2" src="https://github.com/user-attachments/assets/5bfd43ed-ad11-4747-9209-2b07f1904d62" />
+<img width="full" height="339" alt="Screenshot_2" src="https://github.com/user-attachments/assets/5bfd43ed-ad11-4747-9209-2b07f1904d62" />
 
 - 🌱 I’m currently learning **Next.js**
 
