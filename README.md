@@ -33,9 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monira-akter&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-- 🌱 I’m currently learning **Next.js**
-
 - 📫 How to reach me **me.moniraofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
