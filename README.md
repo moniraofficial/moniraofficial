@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Monira</h1>
 <p>I am a Responsive Frontend and React Developer who loves turning designs into clean, user-friendly websites. I specialize in building responsive web applications using HTML, CSS, JavaScript, React, and Next.js.</p>
+
+### 🚀 Current Activities
+* 💻 **Exploring Next.js:** Enhancing my skills with server-side rendering, routing, and modern framework optimization.
+* 🛠️ **Completed Projects:** Successfully built and launched **qurbanihat-livestock**,**DriveFleet** and **RecipeHub** using my core frontend and Next.js stack.
+* 🗺️ **Active Development:** Currently working on a fully responsive **Tourism Website** to create immersive travel experiences online.
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img width="full" height="339" alt="Screenshot_2" src="https://github.com/user-attachments/assets/5bfd43ed-ad11-4747-9209-2b07f1904d62" />
