@@ -3,7 +3,7 @@
 
 ### 🚀 Current Activities
 * 💻 **Exploring Next.js:** Enhancing my skills with server-side rendering, routing, and modern framework optimization.
-* 🛠️ **Completed Projects:** Successfully built and launched **qurbanihat-livestock**,**DriveFleet** and **RecipeHub** using my core frontend and Next.js stack.
+* 🛠️ **Completed Projects:** Successfully built and launched **qurbanihat-livestock**, **DriveFleet** and **RecipeHub** using my core frontend and Next.js stack.
 * 🗺️ **Active Development:** Currently working on a fully responsive **Tourism Website** to create immersive travel experiences online.
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
